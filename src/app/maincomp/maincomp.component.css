@@ -1,0 +1,28 @@
+
+.btn_clr{
+    color:"#3cb9ab";
+}
+.centeralign{
+    text-align:center;
+}
+.bg{
+ background-image: url("../../assets/crouseal.jpg");
+ background-size: cover;
+}
+.text_pos{
+    color:white;
+}
+.bg_grd{
+background: linear-gradient(to right,#242d33,#30bcad);
+    height:250px;
+    color: #FFF;
+
+    padding: 5.5rem;
+    overflow: hidden;
+}
+
+.bgrnd{
+    background: linear-gradient(to right,#242d33,#30bcad);
+
+    
+}
